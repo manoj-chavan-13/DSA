@@ -22,7 +22,7 @@ I created this repository for a few critical reasons:
 3. **Knowledge Base:** Before any interview, I can come back here to revise my own logic and solutions.
 4. **Community Collaboration:** I want to share my solutions and invite the global developer community to review, critique, and improve my code.
 
----
+
 
 ## 🛠️ How I Approach Each Problem
 For every DSA question you find in this repository, my aim is not just to "solve" it, but to *master* it. Here is the format you will find for every problem I tackle:
@@ -41,7 +41,7 @@ Interviews are not just about getting the right answer; they are about optimizat
 
 *For every approach, I will clearly state the Time Complexity **O(T)** and Space Complexity **O(S)**.*
 
----
+
 
 ## 🤝 Open Source Contributions - Please Correct Me!
 If you are reading this and you are a senior engineer, an algorithmic expert, or just another student who knows a better way—**I genuinely need your help!**
@@ -60,10 +60,6 @@ If you see that:
 5. Alternatively, just open an **Issue** to discuss my logic.
 
 I am an eager learner, and I will gladly accept a PR that teaches me something new. I highly welcome constructive criticism as it will only make me a better engineer.
-
----
-
----
 
 ## 💡 Final Thoughts
 The next 2.5 months will literally define my career trajectory. I am writing this to manifest my goals and to promise myself that I won't give up, no matter how tough the problems get.
