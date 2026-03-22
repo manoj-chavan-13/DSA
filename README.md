@@ -63,19 +63,6 @@ I am an eager learner, and I will gladly accept a PR that teaches me something n
 
 ---
 
-## 📅 The Daily Tracker / Tally
-This is where I will log the problems I solve to maintain my streak. *(I will update this manually as I go)*.
-
-| Day / Date | Problem Name | Platform | Difficulty | Status |
-| :---: | :--- | :---: | :---: | :---: |
-| Day 1 | [Example Two Sum](#) | LeetCode | 🟢 Easy | ✅ Solved |
-| Day 1 | [Example Reverse Linked List](#) | LeetCode | 🟢 Easy | ✅ Solved |
-| Day 2 | [Example LRU Cache](#) | LeetCode | 🟡 Medium| ✅ Solved | 
-| Day 3 | [Example Trapping Rain Water](#) | LeetCode | 🔴 Hard | ✅ Solved | 
-| ... | To be updated... | ... | ... | ⏳ Pending |
-
-*(New problems will be added here continuously...)*
-
 ---
 
 ## 💡 Final Thoughts
